@@ -1,7 +1,7 @@
 {
   "slug": "2026-08-29",
   "eyebrow": "THIS WEEKEND · AUG 29 – 30",
-  "title": "Nick Waterhouse plays the Village Saturday, and it's free.",
+  "title": "LakeFest wraps Saturday, and Nick Waterhouse plays the Village free.",
   "weather": [
     {"d": "SATURDAY", "hi": "77", "lo": "60"},
     {"d": "SUNDAY", "hi": "75", "lo": "56"}
@@ -17,14 +17,16 @@
     {
       "head": "LIVE MUSIC",
       "items": [
+        ["SAT", "Dressed to Kill, The Cave"],
         ["SAT 4:00", "Wyatt's Grill & Saloon"],
-        ["SAT 5:00", "Ryan Bieber — Barrel 33"]
+        ["SAT 5:00", "Ryan Bieber — Barrel 33"],
+        ["SUN 12:00", "Mike Cross, 572 Social"]
       ]
     },
     {
       "head": "OUT THERE",
       "items": [
-        ["SAT 9:00", "Jiu Jitsu Open, Fight Syndicate"],
+        ["SAT", "LakeFest, Ski Beach Park"],
         ["BEAR MTN", "Kids Adventure Race, both days"],
         ["RACE", "Downhill Series, Snow Valley"],
         ["SUN 4:30", "Skyline at Sundown, Summit"],
