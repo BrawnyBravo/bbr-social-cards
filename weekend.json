@@ -1,5 +1,5 @@
 {
-  "slug": "2026-08-28",
+  "slug": "2026-08-29",
   "eyebrow": "THIS WEEKEND · AUG 29 – 30",
   "title": "Nick Waterhouse plays the Village Saturday, and it's free.",
   "weather": [
@@ -24,14 +24,20 @@
     {
       "head": "OUT THERE",
       "items": [
-        ["BEAR MTN", "Kids Adventure Games"],
         ["SAT 9:00", "Jiu Jitsu Open, Fight Syndicate"],
-        ["BIKE", "Snow Summit Bike Park, daily"],
+        ["BEAR MTN", "Kids Adventure Race, both days"],
+        ["RACE", "Downhill Series, Snow Valley"],
+        ["SUN 4:30", "Skyline at Sundown, Snow Summit"],
         ["GOLF", "Bear Mtn · 7:30 AM – 5:30 PM"]
       ]
     }
   ],
-  "lake": [],
+  "lake": [
+    {"k": "WATER", "v": "70°F"},
+    {"k": "FROM FULL", "v": "8.9 ft"},
+    {"k": "EAST RAMP", "v": "Sat 6 AM to 7 PM"},
+    {"k": "WEST RAMP", "v": "7 AM to 3 PM"}
+  ],
   "footer": "bigbearready.com",
   "footerNote": "Live weather, roads, lake & incidents"
 }
