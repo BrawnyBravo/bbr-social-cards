@@ -27,7 +27,7 @@
         ["SAT 9:00", "Jiu Jitsu Open, Fight Syndicate"],
         ["BEAR MTN", "Kids Adventure Race, both days"],
         ["RACE", "Downhill Series, Snow Valley"],
-        ["SUN 4:30", "Skyline at Sundown, Snow Summit"],
+        ["SUN 4:30", "Skyline at Sundown, Summit"],
         ["GOLF", "Bear Mtn · 7:30 AM – 5:30 PM"]
       ]
     }
@@ -35,8 +35,8 @@
   "lake": [
     {"k": "WATER", "v": "70°F"},
     {"k": "FROM FULL", "v": "8.9 ft"},
-    {"k": "EAST RAMP", "v": "Sat 6 AM to 7 PM"},
-    {"k": "WEST RAMP", "v": "7 AM to 3 PM"}
+    {"k": "EAST RAMP", "v": "6a – 7p"},
+    {"k": "WEST RAMP", "v": "7a – 3p"}
   ],
   "footer": "bigbearready.com",
   "footerNote": "Live weather, roads, lake & incidents"
