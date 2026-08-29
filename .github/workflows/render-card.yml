@@ -1,0 +1,50 @@
+name: Render weekend card
+
+on:
+  push:
+    paths:
+      - 'weekend.json'
+      - 'render.mjs'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Playwright and fonts
+        run: |
+          npm init -y
+          npm install playwright@1.49.0
+          npx playwright install --with-deps chromium
+          sudo apt-get install -y fonts-crosextra-carlito fonts-texgyre
+
+      - name: Render the card
+        run: node render.mjs weekend.json weekend.png
+
+      - name: Save a dated copy
+        run: |
+          mkdir -p cards
+          DATE=$(node -e "const d=require('./weekend.json');process.stdout.write(d.slug||new Date().toISOString().slice(0,10))")
+          cp weekend.png "cards/weekend-${DATE}.png"
+
+      - name: Commit the rendered card
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add weekend.png cards/
+          if git diff --staged --quiet; then
+            echo 'Card unchanged, nothing to commit.'
+          else
+            git commit -m 'Render weekend card'
+            git push
+          fi
