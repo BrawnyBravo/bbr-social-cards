@@ -1,0 +1,37 @@
+{
+  "slug": "2026-08-28",
+  "eyebrow": "THIS WEEKEND · AUG 29 – 30",
+  "title": "Nick Waterhouse plays the Village Saturday, and it's free.",
+  "weather": [
+    {"d": "SATURDAY", "hi": "77", "lo": "60"},
+    {"d": "SUNDAY", "hi": "75", "lo": "56"}
+  ],
+  "weatherNote": "Cooling off a little. No mountain alerts posted.",
+  "headline": {
+    "tag": "SATURDAY · FREE",
+    "name": "Summer Concert Series",
+    "who": "Nick Waterhouse + The McCharmlys",
+    "where": "The Village · 5:30 – 8:30 PM"
+  },
+  "columns": [
+    {
+      "head": "LIVE MUSIC",
+      "items": [
+        ["SAT 4:00", "Wyatt's Grill & Saloon"],
+        ["SAT 5:00", "Ryan Bieber — Barrel 33"]
+      ]
+    },
+    {
+      "head": "OUT THERE",
+      "items": [
+        ["BEAR MTN", "Kids Adventure Games"],
+        ["SAT 9:00", "Jiu Jitsu Open, Fight Syndicate"],
+        ["BIKE", "Snow Summit Bike Park, daily"],
+        ["GOLF", "Bear Mtn · 7:30 AM – 5:30 PM"]
+      ]
+    }
+  ],
+  "lake": [],
+  "footer": "bigbearready.com",
+  "footerNote": "Live weather, roads, lake & incidents"
+}
