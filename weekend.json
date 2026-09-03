@@ -1,43 +1,42 @@
 {
-  "slug": "2026-08-29",
-  "eyebrow": "THIS WEEKEND · AUG 29 – 30",
-  "title": "LakeFest wraps Saturday, and the Village show is free.",
+  "slug": "2026-09-04",
+  "eyebrow": "THIS WEEKEND · SEP 4 – 6",
+  "title": "The rodeo is back at Sandalwood, and Friday night is free.",
   "weather": [
-    {"d": "SATURDAY", "hi": "77", "lo": "60"},
-    {"d": "SUNDAY", "hi": "75", "lo": "56"}
+    {"d": "FRIDAY", "hi": "72", "lo": "52"},
+    {"d": "SATURDAY", "hi": "72", "lo": "50"},
+    {"d": "SUNDAY", "hi": "64", "lo": "55"}
   ],
-  "weatherNote": "Cooling off a little. No mountain alerts posted.",
+  "weatherNote": "Warm Friday and Saturday, cooler Sunday. No mountain alerts posted.",
   "headline": {
-    "tag": "SATURDAY · FREE",
-    "name": "Summer Concert Series",
-    "who": "Nick Waterhouse + The McCharmlys",
-    "where": "The Village · 5:30 – 8:30 PM"
+    "tag": "SAT & SUN · 4 PM",
+    "name": "Big Bear Rodeo & Carnival",
+    "who": "Bull riding and barrel racing",
+    "where": "Sandalwood Lot · Gates 12 PM"
   },
   "columns": [
     {
-      "head": "LIVE MUSIC",
+      "head": "FREE",
       "items": [
-        ["SAT", "Dressed to Kill, The Cave"],
-        ["SAT 4:00", "Wyatt's Grill & Saloon"],
-        ["SAT 5:00", "Ryan Bieber — Barrel 33"],
-        ["SUN 12:00", "Mike Cross, 572 Social"]
+        ["FRI 6:30", "Brian Gaylord, rodeo stage"],
+        ["SUN 8:30", "Labor Day drone show"]
       ]
     },
     {
       "head": "OUT THERE",
       "items": [
-        ["SAT", "LakeFest, Ski Beach Park"],
-        ["BEAR MTN", "Kids Adventure Race, both days"],
-        ["RACE", "Downhill Series, Snow Valley"],
-        ["SUN 4:30", "Skyline at Sundown, Summit"]
+        ["BIKE", "Snow Summit · 9 AM – 4 PM"],
+        ["GOLF", "Bear Mtn · 7:30 AM – 5:30 PM"],
+        ["GLOW GOLF", "Bear Mtn · 7 – 10 PM"],
+        ["SUN 9:00", "Cowboy church, rodeo arena"]
       ]
     }
   ],
   "lake": [
-    {"k": "WATER", "v": "70°F"},
-    {"k": "FROM FULL", "v": "8.9 ft"},
-    {"k": "EAST RAMP", "v": "6a – 7p"},
-    {"k": "WEST RAMP", "v": "7a – 3p"}
+    {"k": "WATER", "v": "69°F"},
+    {"k": "FROM FULL", "v": "9.1 ft"},
+    {"k": "EAST RAMP", "v": "6 AM to 7 PM"},
+    {"k": "WEST RAMP", "v": "7 AM to 3 PM"}
   ],
   "footer": "bigbearready.com",
   "footerNote": "Live weather, roads, lake & incidents"
