@@ -1,42 +1,42 @@
 {
-  "slug": "2026-09-04",
-  "eyebrow": "THIS WEEKEND · SEP 4 – 6",
-  "title": "The rodeo is back at Sandalwood, and Friday night is free.",
+  "slug": "2026-09-11",
+  "eyebrow": "THIS WEEKEND · SEP 11 – 13",
+  "title": "Bardo and Mestizo Beat play the Village Saturday, and it's free.",
   "weather": [
-    {"d": "FRIDAY", "hi": "72", "lo": "52"},
-    {"d": "SATURDAY", "hi": "72", "lo": "50"},
-    {"d": "SUNDAY", "hi": "64", "lo": "55"}
+    {"d": "FRIDAY", "hi": "77", "lo": "61"},
+    {"d": "SATURDAY", "hi": "74", "lo": "56"},
+    {"d": "SUNDAY", "hi": "74", "lo": "55"}
   ],
-  "weatherNote": "Warm Friday and Saturday, cooler Sunday. No mountain alerts posted.",
+  "weatherNote": "Cooling off through the weekend. No mountain alerts posted.",
   "headline": {
-    "tag": "SAT & SUN · 4 PM",
-    "name": "Big Bear Rodeo & Carnival",
-    "who": "Bull riding and barrel racing",
-    "where": "Sandalwood Lot · Gates 12 PM"
+    "tag": "SATURDAY · FREE",
+    "name": "Big Bear Lake Concert Series",
+    "who": "Bardo + Mestizo Beat",
+    "where": "The Village · 5:30 – 8:30 PM"
   },
   "columns": [
     {
-      "head": "FREE",
+      "head": "LIVE MUSIC",
       "items": [
-        ["FRI 6:30", "Brian Gaylord, rodeo stage"],
-        ["SUN 8:30", "Labor Day drone show"]
+        ["FRI 5:00", "Matt & Emily, Barrel 33"],
+        ["SAT 5:00", "Local Legends, Barrel 33"]
       ]
     },
     {
       "head": "OUT THERE",
       "items": [
-        ["BIKE", "Snow Summit · 9 AM – 4 PM"],
-        ["GOLF", "Bear Mtn · 7:30 AM – 5:30 PM"],
-        ["GLOW GOLF", "Bear Mtn · 7 – 10 PM"],
-        ["SUN 9:00", "Cowboy church, rodeo arena"]
+        ["SAT", "Tough Mudder, Bear Mtn"],
+        ["SAT 10:00", "Free golf demo day"],
+        ["SAT 4:30", "Skyline at Sundown"],
+        ["FRI 3:00", "Snow Valley ride, $19"]
       ]
     }
   ],
   "lake": [
-    {"k": "WATER", "v": "69°F"},
+    {"k": "WATER", "v": "66°F"},
     {"k": "FROM FULL", "v": "9.1 ft"},
-    {"k": "EAST RAMP", "v": "6 AM to 7 PM"},
-    {"k": "WEST RAMP", "v": "7 AM to 3 PM"}
+    {"k": "EAST RAMP", "v": "7 AM to 5 PM"},
+    {"k": "WEST RAMP", "v": "CLOSED"}
   ],
   "footer": "bigbearready.com",
   "footerNote": "Live weather, roads, lake & incidents"
